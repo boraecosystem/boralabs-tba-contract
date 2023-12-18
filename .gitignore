@@ -1,0 +1,23 @@
+.DS_Store
+.idea
+.yarn
+.env.export
+.yarn.lock
+.env*.local
+yarn-error.log
+.deps
+deployments
+
+node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+Project/**/deployments
+
+# Hardhat files
+cache
+artifacts
+**/deployments/*_local
+/Sample/**/deployments

@@ -1,0 +1,26 @@
+{
+  "overrides": [
+    {
+      "files": "*.sol",
+      "options": {
+        "printWidth": 8000,
+        "tabWidth": 4,
+        "useTabs": false,
+        "singleQuote": false,
+        "bracketSpacing": false,
+        "editorconfig": true
+      }
+    },
+    {
+      "files": "*.ts|*.js",
+      "options": {
+        "printWidth": 180,
+        "tabWidth": 4,
+        "useTabs": false,
+        "singleQuote": false,
+        "bracketSpacing": false,
+        "editorconfig": true
+      }
+    }
+  ]
+}
